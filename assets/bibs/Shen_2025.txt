@@ -1,0 +1,12 @@
+@article {Shen2025.09.11.675319,
+	author = {Shen, Jia and Rungratsameetaweemana, Nuttida and Sharma, Prayshita and Peterka, Darcy S. and Wu, Herbert Zheng and Shadlen, Michael N.},
+	title = {ALM enables contextual decision-making via dynamic reconfiguration of local circuits},
+	elocation-id = {2025.09.11.675319},
+	year = {2025},
+	doi = {10.1101/2025.09.11.675319},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {Cognitive operations often require flexible implementation of stimulus{\textendash}response contingencies, depending on context. We developed an olfactory task in which mice learned to associate a test odor with a directional lick response, conditional on a preceding context odor drawn from a different odor set. Two-photon imaging revealed that anterior lateral motor cortex (ALM) contains distinct populations encoding context, test odors, and choice. Optogenetic silencing during the context and delay periods impaired performance, suggesting that ALM contributes to configuring the appropriate contingency. Although context odors that instructed the same mapping were represented by separate populations, their influence converged at the level of choice-selective neurons. A subpopulation of these neurons exhibited dual selectivity for context and choice, forming what we term {\textquotedblleft}contingency neurons.{\textquotedblright} These findings suggest that ALM supports flexible behavior not by abstracting over context cues, but by dynamically reconfiguring local circuits to route sensory input to the appropriate motor output.Competing Interest StatementThe authors have declared no competing interest.Howard Hughes Medical Institute, https://ror.org/006w34k90NIH BRAIN Initiative, R01NS113113Grossman Center for the Statistics of the Mind at Columbia UniversityUnited States Air Force Office of Scientific Research, https://ror.org/011e9bt93, 21RT0878National Institute of Mental Health, https://ror.org/04xeg9z08, R01MH122513, R01MH133039National Institute on Drug Abuse, https://ror.org/00fq5cm18, 5F32DA060751},
+	URL = {https://www.biorxiv.org/content/early/2025/09/16/2025.09.11.675319},
+	eprint = {https://www.biorxiv.org/content/early/2025/09/16/2025.09.11.675319.full.pdf},
+	journal = {bioRxiv}
+}

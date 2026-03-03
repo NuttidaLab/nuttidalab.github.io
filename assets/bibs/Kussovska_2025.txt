@@ -1,0 +1,12 @@
+@article {Kussovska2025.10.31.684900,
+	author = {Kussovska, Daria and Kim, Robert and Rungratsameetaweemana, Nuttida},
+	title = {Neural heterogeneity shapes the temporal structure of human working memory},
+	elocation-id = {2025.10.31.684900},
+	year = {2025},
+	doi = {10.1101/2025.10.31.684900},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {Working memory (WM) enables temporary retention of information essential for flexible cognition. Although persistent population activity has long been regarded as a principal mechanism of memory maintenance, continuous single-neuron firing is energetically demanding and difficult to reconcile with the heterogeneous firing properties of cortical neurons. Applying single-trial analyses to a dataset of 902 neurons recorded from 21 neurosurgical patients performing a WM task, we found that maintenance was supported by transient, burst-like episodes of coordinated activity rather than sustained firing. Cross-temporal decoding exhibited localized generalization, and decoding accuracy increased with wider temporal windows, indicating that apparent persistence can emerge from temporally interleaved activity across neurons. We further developed a feature-based, putative cell-type classifier that revealed distinct circuit contributions: pyramidal neurons expressed content in burst-aligned events during maintenance, whereas interneurons were strongly modulated by memory load and behavior. Together, these findings reconcile dynamic and persistent accounts, indicating that human WM can emerge from temporally interleaved, cell-type-specific dynamics that provide a flexible and potentially metabolically efficient substrate for maintaining information over time.Competing Interest StatementThe authors have declared no competing interest.Air Force Office of Scientific ResearchAmerican Academy of Neurology (AAN) Resident Research Scholarship},
+	URL = {https://www.biorxiv.org/content/early/2025/12/02/2025.10.31.684900},
+	eprint = {https://www.biorxiv.org/content/early/2025/12/02/2025.10.31.684900.full.pdf},
+	journal = {bioRxiv}
+}

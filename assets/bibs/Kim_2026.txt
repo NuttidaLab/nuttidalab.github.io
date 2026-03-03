@@ -1,0 +1,12 @@
+@article {Kim2026.01.24.701461,
+	author = {Kim, Robert and Aquino, Tomas G. and Cheng, Sophia and Reed, Chrystal M. and Mamelak, Adam N. and Rungratsameetaweemana, Nuttida and Rutishauser, Ueli},
+	title = {Verbally specified task goals reorganize visual codes in human ventral temporal cortex via medial frontal modulation},
+	elocation-id = {2026.01.24.701461},
+	year = {2026},
+	doi = {10.64898/2026.01.24.701461},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {How sensory representations in the sensory cortex are dynamically and rapidly modulated to support flexible, goal-directed behavior remains a fundamental open question. Using rare simultaneous single-neuron recordings across multiple human brain regions, including the ventral temporal cortex (VTC), a high-level visual area not traditionally associated with context-dependent coding, we show that visual representations in VTC are rapidly reconfigured by the presence or absence of preceding verbal task instructions. Identical visual stimuli evoked distinct responses in VTC depending on whether task instructions were provided or not, with categorical representations sharpened when goals were specified in advance. In contrast, dorsal anterior cingulate cortex (dACC) and the hippocampus carried strong signals related to instruction timing, consistent with known regional specialization in top-down control. Coupling between dACC and VTC increased during periods of instructional uncertainty and high cognitive demand on a rapid timescale during stimulus presentation, and its strength predicted correct performance. Together, these findings uncover a rapid, online feedback mechanism through which the medial frontal cortex dynamically reorganizes sensory population codes in VTC, linking flexible cortical coordination to successful goal-directed computation.Competing Interest StatementThe authors have declared no competing interest.American Academy of Neurology, https://ror.org/00mv9dj85, Resident Research ScholarshipSimons Foundation, https://ror.org/01cmst727, SCGBNIH Common Fund, https://ror.org/001d55x84, U01NS117839},
+	URL = {https://www.biorxiv.org/content/early/2026/02/17/2026.01.24.701461},
+	eprint = {https://www.biorxiv.org/content/early/2026/02/17/2026.01.24.701461.full.pdf},
+	journal = {bioRxiv}
+}

@@ -1,0 +1,9 @@
+@misc{kular2025feedbackpromotesefficientcodingattenuating,
+      title={Feedback promotes efficient-coding while attenuating bias in recurrent neural networks}, 
+      author={Holly Kular and Robert Kim and John Serences and Nuttida Rungratsameetaweemana},
+      year={2025},
+      eprint={2509.23104},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.NC},
+      url={https://arxiv.org/abs/2509.23104}, 
+}
