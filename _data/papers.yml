@@ -1,3 +1,43 @@
+- year: 2026
+  title: "Task goals reorganize visual codes in human ventral temporal cortex via medial frontal modulation."
+  authors: "Kim R, Aquino TG, Mamelak AN, Reed CM, Rungratsameetaweemana N∗, Rutishauser U∗"
+  venue: "bioRxiv: 10.64898/2026.01.24.701461, Submitted."
+  pdf: "/assets/papers/Kim_2026.pdf"
+  bib: "/assets/bibs/Kim_2026.txt"
+  doi: "https://doi.org/10.64898/2026.01.24.701461"
+
+- year: 2026
+  title: "Computational neural dynamics of goal-directed visual attention in macaques."
+  authors: "Zhang J, Rungratsameetaweemana N, Wang S."
+  venue: "bioRxiv: 10.64898/2026.01.18.700191, In revision."
+  pdf: "/assets/papers/Zhang_2026.pdf"
+  bib: "/assets/bibs/Zhang_2026.txt"
+  doi: "https://doi.org/10.64898/2026.01.18.700191"
+
+- year: 2025
+  title: "Neural heterogeneity shapes the temporal structure of human working memory."
+  authors: "Kussovska D, Kim R, Rungratsameetaweemana N."
+  venue: "bioRxiv: 10.1101/2025.10.31.684900, In revision."
+  pdf: "/assets/papers/Kussovska_2025.pdf"
+  bib: "/assets/bibs/Kussovska_2025.txt"
+  doi: "https://doi.org/10.1101/2025.10.31.684900"
+
+- year: 2025
+  title: "Feedback promotes efficient-coding while attenuating bias in recurrent neural networks."
+  authors: "Kular H, Kim R, Serences JT∗, Rungratsameetaweemana N∗."
+  venue: "arXiv: 2509.23104."
+  pdf: "/assets/papers/Kular_2025.pdf"
+  bib: "/assets/bibs/Kular_2025.txt"
+  doi: "https://doi.org/10.48550/arXiv.2509.23104"
+
+- year: 2025
+  title: "ALM enables contextual decision-making via dynamic reconfiguration of local circuits."
+  authors: "Shen J, Rungratsameetaweemana N, Sharma P, Peterka DS. Wu HZ, Shadlen MN."
+  venue: "bioRxiv: 10.1101/2025.09.11.675319, In revision."
+  pdf: "/assets/papers/Shen_2025.pdf"
+  bib: "/assets/bibs/Shen_2025.txt"
+  doi: "https://doi.org/10.1101/2025.09.11.675319"
+
 - year: 2025
   title: "Brain2Model Transfer: Training sensory and decision models with human neural activity as a teacher"
   authors: "Aquino TG, ..., Sajda P, Sheth SA*, Rungratsameetaweemana N*"
@@ -20,10 +60,10 @@
 - year: 2025
   title: "Behavioral investigation of allo-centric and egocentric cognitive maps in human spatial memory"
   authors: "Nett L, Guth TA, Buechel PK, Rungratsameetaweemana N, Kunz L. "
-  venue: "bioRxiv: 10.1101/2025.01.17.633375, Under review."
+  venue: "Neuropsychologia"
   pdf: "/assets/papers/Nett_2025.pdf"
   bib: "/assets/bibs/Nett_2025.txt"
-  doi: "https://doi.org/10.1101/2025.01.17.633375"
+  doi: "https://doi.org/10.1016/j.neuropsychologia.2025.109230"
 
 - year: 2025
   title: "Dynamic categorization rules alter representations in human visual cortex"
