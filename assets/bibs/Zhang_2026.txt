@@ -1,12 +1,13 @@
-@article {Zhang2026.01.18.700191,
-	author = {Zhang, Jie and Rungratsameetaweemana, Nuttida and Wang, Shuo},
-	title = {Computational neural dynamics of goal-directed visual attention in macaques},
-	elocation-id = {2026.01.18.700191},
-	year = {2026},
-	doi = {10.64898/2026.01.18.700191},
-	publisher = {Cold Spring Harbor Laboratory},
-	abstract = {Goal-directed visual attention requires the dynamic integration of task goals with perceptual and mnemonic processes across distributed cortical networks. Using large-scale recordings from V4, IT, OFC, and LPFC, we identified distinct neural populations selective for attention and category. Population dynamics robustly represented visual categories during cue presentation, sustained cue information across delays, and differentiated categories and attentional states during search. Cue-related activity predicted subsequent search efficiency, linking pre-search processing to behavioral performance. The orthogonal subspace provided a crucial latent representational structure for encoding and maintaining task-relevant information across search stages. Foveal attention enhanced peripheral representations by both increasing pattern separation and reshaping representational geometry in a non-linear, context-dependent manner. Search dynamics further reflected fixation history and target detection, which modulated both response strength and representational structure. Finally, V4 and IT encoded the spatial geometry of the search array, preserving its layout. Together, these findings highlight population-level dynamics as critical mechanisms supporting goal-directed visual search.Competing Interest StatementThe authors have declared no competing interest.},
-	URL = {https://www.biorxiv.org/content/early/2026/01/21/2026.01.18.700191},
-	eprint = {https://www.biorxiv.org/content/early/2026/01/21/2026.01.18.700191.full.pdf},
-	journal = {bioRxiv}
-}
+@article{
+doi:10.1126/sciadv.aed9004,
+author = {Jie Zhang  and Nuttida Rungratsameetaweemana  and Shuo Wang },
+title = {Computational neural dynamics of goal-directed visual attention in macaques},
+journal = {Science Advances},
+volume = {12},
+number = {21},
+pages = {eaed9004},
+year = {2026},
+doi = {10.1126/sciadv.aed9004},
+URL = {https://www.science.org/doi/abs/10.1126/sciadv.aed9004},
+eprint = {https://www.science.org/doi/pdf/10.1126/sciadv.aed9004},
+abstract = {Goal-directed visual attention requires the dynamic integration of task goals with perceptual and mnemonic processes across distributed cortical networks. Using large-scale recordings from V4, IT, OFC, and LPFC, we observed that population dynamics robustly represented visual categories during cue presentation, sustained cue information across delay periods, and differentiated both categories and attentional states during search. Cue-related activity predicted subsequent search efficiency, linking presearch processing to behavioral performance. The orthogonal subspace provided a crucial latent representational structure for encoding and maintaining task-relevant information across search stages. Foveal attention enhanced peripheral representations by both increasing pattern separation and reshaping representational geometry in a nonlinear, context-dependent manner. Search dynamics further reflected fixation history and target detection, which modulated both response strength and representational structure. Lastly, V4 and IT encoded the spatial geometry of the search array, preserving its layout. Together, these findings highlight population-level dynamics as critical mechanisms supporting goal-directed visual attention. Large-scale brain activity patterns coordinate goals, perception, and memory to guide efficient visual search.}}
