@@ -9,10 +9,10 @@
 - year: 2026
   title: "Computational neural dynamics of goal-directed visual attention in macaques."
   authors: "Zhang J, Rungratsameetaweemana N, Wang S."
-  venue: "bioRxiv: 10.64898/2026.01.18.700191, In revision."
+  venue: "Science Advances: 10.1126/sciadv.aed9004"
   pdf: "/assets/papers/Zhang_2026.pdf"
   bib: "/assets/bibs/Zhang_2026.txt"
-  doi: "https://doi.org/10.64898/2026.01.18.700191"
+  doi: "https://doi.org/10.1126/sciadv.aed9004"
 
 - year: 2025
   title: "Neural heterogeneity shapes the temporal structure of human working memory."
