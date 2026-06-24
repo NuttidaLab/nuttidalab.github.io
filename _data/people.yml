@@ -18,14 +18,14 @@
 
 - name: "Siddhant Iyer"
   position: "PhD Student in Neurobiology & Behavior"
-  email: "si2442 [at] columbia.edu"
+  email: "si2442 [at] cumc.columbia.edu"
   bio: "Sid obtained his BA in Brain & Cognitive Sciences from University of Rochester, working with David Dodell-Feder to decode ‘theory of mind’ processes from fMRI data. He then teched for Meghan Meyer, relating individual differences in social memory processing to fMRI functional connectivity. At the Nuttida lab, he seeks to understand why real and artificial neural networks change with cognitive context. Outside of the lab, he enjoys playing racket sports and board games."
   avatar: "/assets/images/people/sid.jpg"
 
 - name: "Renee Tung"
   position: "MD/PhD Student in Neurobiology & Behavior"
   email: "rjt2155 [at] cumc.columbia.edu"
-  bio: "Renee completed her BS in Neuroscience with a certificate in Statistics & Data Science at Yale University in 2021, where she studied the neural mechanisms of behavioral impairment in a rat model of absence epilepsy in Hal Blumenfeld's lab. She then spent a year working with Carsen Stringer at Janelia using computational methods to study neural representations of behavior in mouse recordings of tens of thousands of neurons with behavioral keypoint tracking. In the Nuttida lab, she is interested in using modeling in combination with experimental data to better understand the neural mechanisms underlying the effects of neurostimulation on cognition in humans. Outside of lab, she enjoys playing [card, board, video] games, walking in parks, and exploring the city."
+  bio: "Renee completed her BS in Neuroscience with a certificate in Statistics & Data Science at Yale University in 2021, where she studied the neural mechanisms of behavioral impairment in a rat model of absence epilepsy in Hal Blumenfeld's lab. She then spent a year working with Carsen Stringer at Janelia using computational methods to study neural representations of behavior in mouse recordings of tens of thousands of neurons with behavioral keypoint tracking. In the Nuttida lab, she is studying how the brain adapts to cognitive load and distractors in working memory, using analysis of human intracranial recordings and recurrent neural network modeling. Outside of lab, she enjoys playing piano and [card, board, video] games, walking in parks, and exploring the city."
   avatar: "/assets/images/people/renee.jpg"
 
 - name: "Daria Kussovska"
@@ -42,14 +42,14 @@
 
 - name: "Kahini Mehta"
   position: "PhD Student in Neurobiology & Behavior"
-  email: ""
+  email: "kpm2160 [at] cumc.columbia.edu"
   bio: "Kahini received her B.A. in Psychology and Non-Fiction Writing from Brown University in 2021. She then spent several years at PennLINC, where she worked as a Data Analyst and Software Engineer, focusing on large-scale fMRI analysis and reproducibility in cognitive neuroscience. Kahini is broadly interested in human cognition and the neural encoding of decision variables, with a focus on combining computational models with single-neuron and imaging data. She is excited to be joining the Nuttida lab. Outside of research, she enjoys lifting weights, curating playlists, hanging out with cats, and listening to rock music."
   avatar: "/assets/images/people/kahini.jpg"
 
-- name: "Sally Liu"
-  position: "BS Student in Computer Science | Harborview Engineering Health Research Fellow"
-  email: "bl3092 [at] columbia.edu"
-  bio: "Sally is a dual-degree student pursuing a BA in Mathematics at Middlebury College and a BS in Computer Science at Columbia University. At Nuttida Lab, she conducts research on biologically constrained recurrent neural networks and their alignment with spiking neural dynamics. Broadly, her interests lie at the intersection of artificial intelligence and science, with a focus on developing interpretable and human-aligned AI systems for scientific discovery. Previously, she has worked on projects involving reinforcement learning from human feedback (RLHF), neuro-symbolic AI for drug discovery, and human-in-the-loop agentic systems. Outside the lab, Sally enjoys baking, traveling, playing the cello, listening to classical music, brewing tea and coffee, and exploring art museums."
-  avatar: "/assets/images/people/sally.jpg"
+# - name: "Sally Liu"
+#   position: "BS Student in Computer Science | Harborview Engineering Health Research Fellow"
+#   email: "bl3092 [at] columbia.edu"
+#   bio: "Sally is a dual-degree student pursuing a BA in Mathematics at Middlebury College and a BS in Computer Science at Columbia University. At Nuttida Lab, she conducts research on biologically constrained recurrent neural networks and their alignment with spiking neural dynamics. Broadly, her interests lie at the intersection of artificial intelligence and science, with a focus on developing interpretable and human-aligned AI systems for scientific discovery. Previously, she has worked on projects involving reinforcement learning from human feedback (RLHF), neuro-symbolic AI for drug discovery, and human-in-the-loop agentic systems. Outside the lab, Sally enjoys baking, traveling, playing the cello, listening to classical music, brewing tea and coffee, and exploring art museums."
+#   avatar: "/assets/images/people/sally.jpg"
 
       
